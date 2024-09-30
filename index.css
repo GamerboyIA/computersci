@@ -1,0 +1,35 @@
+
+body { 
+font-size: 20px;
+font-family: Arial, monospace;
+}
+
+.indexheader {
+width: 700px;
+margin: auto;
+text-align: center;
+}
+
+h1 {
+
+}
+span.willow {
+color: green;
+}
+
+span.log { 
+color: red;
+}
+
+
+span.objective {
+color: blue;
+}
+
+span.reminder {
+color: black;
+}
+
+span.test { 
+color: violet;
+}
